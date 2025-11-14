@@ -1,14 +1,15 @@
 {
   "name": "whatsapp-quiz-bot",
   "version": "1.0.0",
-  "description": "A WhatsApp Quiz Bot using whatsapp-web.js",
+  "description": "A WhatsApp quiz bot using whatsapp-web.js",
   "main": "quizbot.js",
   "scripts": {
     "start": "node quizbot.js"
   },
+  "author": "xobel",
+  "license": "MIT",
   "dependencies": {
-    "whatsapp-web.js": "^1.24.0",
-    "qrcode-terminal": "^0.12.0",
-    "node-schedule": "^2.1.1"
+    "whatsapp-web.js": "^1.20.0",
+    "qrcode-terminal": "^0.12.0"
   }
 }
