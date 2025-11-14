@@ -5,7 +5,7 @@
 # ✨ QUIZ-BOT: A Minimalist Interactive Quiz Engine ✨
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/umairacm/quiz-bot?style=flat-square">
+<img alt="Language" src="https://img.shields.io/badge/Language-Python-blue?style=flat-square">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/umairacm/quiz-bot?style=flat-square">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/umairacm/quiz-bot?style=flat-square">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/umairacm/quiz-bot?style=flat-square">
