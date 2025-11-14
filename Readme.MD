@@ -26,14 +26,14 @@ The **Quiz-Bot** is a powerful, minimal-mode, and highly efficient solution for 
 
 ## 🛠️ Tech Stack
 
-* **\[Insert Main Language Here]** (e.g., Python, JavaScript)
-* **\[Insert Framework/Library Here]** (e.g., Node.js, Flask)
+* **\JavaScript
+* **\Node.js
 
 ## ⚙️ Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/umairacm/quiz-bot.git](https://github.com/umairacm/quiz-bot.git)
+    git clone [https://github.com/umairacm/quiz-bot.git]
     ```
 2.  **Navigate to the directory:**
     ```bash
@@ -41,11 +41,11 @@ The **Quiz-Bot** is a powerful, minimal-mode, and highly efficient solution for 
     ```
 3.  **Install dependencies:**
     ```bash
-    npm install  # or pip install -r requirements.txt
+    npm install  #
     ```
 4.  **Run the bot:**
     ```bash
-    node index.js  # or python bot.py
+    node index.js  # 
     ```
 
 ## 📞 Get In Touch
