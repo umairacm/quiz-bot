@@ -80,7 +80,7 @@ pm2 logs quiz-bot
 
 ---
 
-🟠 Replit Deploy <a name="replit"></a>
+## 🟠 Replit Deploy <a name="replit"></a>
 
 1. Create a new Node.js Repl.
 
@@ -102,7 +102,7 @@ pm2 logs quiz-bot
 
 ---
 
-⚙️ Notes
+## ⚙️ Notes
 
 First run requires scanning QR; after scanning you can save session (session persistence) to avoid repeated scans.
 
@@ -126,7 +126,7 @@ ping — Bot alive test
 
 ---
 
-Maintainer
+## Maintainer
 
 hdxjpg-sudo
 Email: hdxjpg@gmail.com
@@ -135,6 +135,6 @@ WhatsApp: https://wa.me/918304063560
 
 ---
 
-License
+## License
 
 MIT
