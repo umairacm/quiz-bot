@@ -1,16 +1,6 @@
-# Node.js
 node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# WhatsApp session data
-.wwebjs_auth/
-.wwebjs_cache/
-
-# Environment variables
-.env
-.env.local
-
-# Logs
+owner.json
 *.log
+.wwebjs_auth/
+session.json
+.DS_Store
