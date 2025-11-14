@@ -26,8 +26,8 @@ The **Quiz-Bot** is a powerful, minimal-mode, and highly efficient solution for 
 
 ## 🛠️ Tech Stack
 
-* **\JavaScript
-* **\Node.js
+* JavaScript
+* Node.js
 
 ## ⚙️ Installation
 
