@@ -53,7 +53,7 @@ The **Quiz-Bot** is a powerful, minimal-mode, and highly efficient solution for 
 <table width="100%">
   <tr>
     <td align="center">
-      <a href="https://github.com/hdxjpg-sudo" target="_blank" style="text-decoration: none;">
+      <a href="https://github.com/umairacm" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
       </a>
     </td>
