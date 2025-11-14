@@ -74,6 +74,6 @@ The **Quiz-Bot** is a powerful, minimal-mode, and highly efficient solution for 
 
 ## 📄 License
 
-This project is licensed not under the any License.
+This project is licensed not under any License.
 
 * *Developed with passion by @umairacm.*
