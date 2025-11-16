@@ -82,6 +82,6 @@ This project is licensed not under any License.
 📝 Important Message
 
 Please note:
-We also recommend checking out the portable build of Ungoogled‑Chromium (version 142.0.7444.162-1, portable Linux 64-bit) which is available here: 142.0.7444.162-1 Portable Linux 64-bit 
+We also recommend checking out the portable build of Ungoogled‑Chromium (version 142.0.7444.162-1, portable Linux 64-bit) which is available here: https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/linux_portable/64bit/142.0.7444.162-1 
 This build may be useful for developing or testing in a privacy-focused, portable browser environment.
 
