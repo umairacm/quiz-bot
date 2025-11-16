@@ -15,7 +15,7 @@
 
 The **Quiz-Bot** is a powerful, minimal-mode, and highly efficient solution for deploying interactive quizzes. Built for simplicity and speed, it provides a seamless experience for both developers and end-users.
 
-> **100% Powerful & Premium Mode Activated.**
+> **USE LATEST RELEASE.**
 
 ## 💻 Features
 
